@@ -23,17 +23,7 @@ For i from 0 to n–1
     Swap smallest number with numbers[i]
 ```
 
-It has the time complexity of O(<math xmlns="http://www.w3.org/1998/Math/MathML">
-<msup>
-<mi>n</mi>
-<mn>2</mn>
-</msup>
-</math>), Ω(<math xmlns="http://www.w3.org/1998/Math/MathML">
-<msup>
-<mi>n</mi>
-<mn>2</mn>
-</msup>
-</math>). This algorithm is simple to understand and implement. It is inefficient for large datasets, especially when the data is nearly sorted.
+It has the time complexity of O(n²), Ω(n²). This algorithm is simple to understand and implement. It is inefficient for large datasets, especially when the data is nearly sorted.
 
 #### Bubble sort
 
