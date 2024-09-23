@@ -1,5 +1,5 @@
 ---
-title : "CS50 Tuần 1"
+title : "CS50 Tuần 3"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
