@@ -1,19 +1,15 @@
 ---
-title : "CS50 Week 1"
+title : "CS50 Week 3"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
 ---
-# CS50 Week 1 - C
+# CS50 Week 3 - Algorithms
 
 ### Overall
-This workshop is a learning note of CS50 course. In the first week, we will discover these following contents.
+Welcome to the third week of CS50. In this week, we will go through some type of algorithms to understand more about this term.
 
 ### Content
- 1. [Introduction](1-Introduction/)
- 2. [How-to-program-in-C](2-How-to-program-in-C/)
- 3. [Variables](3-Variables/)
- 4. [Conditionals](4-Conditionals/)
- 5. [Loops](5-Loops/)
- 6. [Operators-and-functions](Operators-and-functions/)
- 7. [Practice](7-Practice/)
+ 1. [Algorithms](1-Algorithms/)
+ 2. [Searching-algorithms](2-Searching-algorithms/)
+ 3. [Sorting-algorithms](3-Sorting-algorithms/)
