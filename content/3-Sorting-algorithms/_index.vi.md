@@ -21,11 +21,11 @@ For i from 0 to n–1
     Find smallest number between numbers[i] and numbers[n-1]
     Swap smallest number with numbers[i]
 ```
+```
 Cho i từ 0 đến n-1
-> Tìm số nhỏ nhất giữa số[i] và số [n-1]
-
-> Hoán đổi số nhỏ với với số[i]
-
+    Tìm số nhỏ nhất giữa số[i] và số [n-1]
+    Hoán đổi số nhỏ với với số[i]
+```
 \
 Độ phức tạp thuật toán là O(n²), Ω(n²). Thuật toán này dễ hiểu và dễ thực hiện. Tuy nhiên, nó không hiệu quả cho các tập dữ liệu lớn, đặc biệt khi dữ liệu gần như đã được sắp xếp.
 
