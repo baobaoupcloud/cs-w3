@@ -40,12 +40,7 @@ Repeat n-1 times
         Quit
 ```
 
-Analyzing bubble sort, the time complexity is O(<math xmlns="http://www.w3.org/1998/Math/MathML">
-<msup>
-<mi>n</mi>
-<mn>2</mn>
-</msup>
-</math>), for the worst case and Ω(n) for the best case. Bubble sort is a simple approach. It is efficient for small datasets or nearly sorted data. But it is comparatively a slow algorithm, not suitable for large arrays.
+Analyzing bubble sort, the time complexity is O(n²), for the worst case and Ω(n) for the best case. Bubble sort is a simple approach. It is efficient for small datasets or nearly sorted data. But it is comparatively a slow algorithm, not suitable for large arrays.
 
 #### Merge sort
 
